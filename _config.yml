@@ -21,7 +21,7 @@
 title: ScalePal
 description: >- # this means to ignore newlines until "baseurl:"
   ScalePal makes weight tracking simple, friendly, and anxiety-free.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/ScalePalWeb" # the subpath of your site, e.g. /blog
 instagram_username: ScalePalApp
 
 header_pages:
