@@ -37,7 +37,7 @@ To run the website locally, you'll need to have Ruby and Bundler installed.
 
 The site will be available at `http://localhost:4000/ScalePalWeb/`.
 
-## 部署
+## 🚀 Deployment
 
 The site is automatically deployed to GitHub Pages when changes are pushed to the `main` branch.
 
